@@ -16,13 +16,19 @@ Create playlists based on your *mood*, enjoy live sound-reactive visuals, and ex
 ---
 
 ## 🛠️ Tech Stack
-| Frontend | Backend | Tools |
-|-----------|----------|-------|
-| HTML, CSS, JS | Python (Flask / Streamlit) | CodeDesign.ai, Vibe Coding, GitHub Pages |
+| Frontend | Backend | Hosting |
+|-----------|----------|---------|
+| HTML, CSS, JS | Python (Flask / Streamlit) | **Vercel** |
 
 ---
 
-## 🚀 How to Run
+## 🚀 Live Demo
+🎧 **Experience BeatVibe here:**  
+👉 [Live on Vercel](https://v0-beat-vibe-music-player.vercel.app/)
+
+---
+
+## 💻 How to Run Locally
 ```bash
 # Clone the repository
 git clone https://github.com/<your-username>/BeatVibe-Music-Player.git
