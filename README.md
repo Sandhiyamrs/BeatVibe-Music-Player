@@ -116,6 +116,5 @@ Smooth responsiveness
 
 📂 BeatVibe Repository : https://github.com/Sandhiyamrs/BeatVibe_Modern_Music_Player
 
-🔗 Live Demo : https://v0-beat-vibe-music-player.vercel.app/
 
 
