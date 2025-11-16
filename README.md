@@ -1,31 +1,32 @@
 # <span style="font-size:2.5em;font-weight:bold;">🎶 BeatVibe – Modern Music Player with Playlists & Mood Themes</span>
 
-BeatVibe is a futuristic AI-powered web music player that blends rhythm, emotion, and design into one immersive experience. Listen to music, switch mood themes, create playlists, and enjoy glowing neo[...]
+** BeatVibe ** is a futuristic AI-powered web music player that blends rhythm, emotion, and design into one immersive experience. Listen to music, switch mood themes, create playlists, and enjoy glowing neo[...]
 
+---
 
 🚀 Live Demo
 
 🔗 BeatVibe – Open Live Player:
 https://v0-beat-vibe-music-player.vercel.app/
 
+---
 
-✨ What is BeatVibe?
+## ✨ What is BeatVibe?
 
-BeatVibe is a modern browser-based music player that uses AI mood recommendations, neon visuals, and responsive UI to create a unique listening journey.
+-BeatVibe is a modern browser-based music player that uses AI mood recommendations, neon visuals, and responsive UI to create a unique listening journey.
 
-You can create personal playlists, organize songs by mood, and experience music with animation-rich visuals.
+-You can create personal playlists, organize songs by mood, and experience music with animation-rich visuals.
 
+---
 
-🌈 Features
+## 🌈 Features
 
-🎵 1. Music Controls
-
+--🎵 1. Music Controls
 Play / Pause / Next / Previous
 Volume control
 Seek bar for track progress
 
-💫 2. Mood-Based Themes
-
+--💫 2. Mood-Based Themes
 Switch between dynamic themes:
 Happy
 Chill
@@ -36,38 +37,38 @@ Background colors
 Glow intensity
 Button animations
 
-🌌 3. Neon-Themed Animated UI
-
+--🌌 3. Neon-Themed Animated UI
 Futuristic glowing buttons
 Soft transitions
 Glass & neon blend UI
 
-🪄 4. AI-Based Song Recommendations
-
+--🪄 4. AI-Based Song Recommendations
 Suggests songs based on mood
 Generates auto-playlists
 
-📻 5. Playlist Management
-
+--📻 5. Playlist Management
 Create playlists
 Add/remove songs
 Shuffle mode
 
-📱 6. Fully Responsive
-
+--📱 6. Fully Responsive
 Perfectly optimized for:
 Desktop
 Tablet
 Mobile
 
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+| Frontend | Backend | Hosting |
+|-----------|----------|-----------|
+| HTML, CSS, JavaScript	| Python (Flask / Streamlit) | **Vercel** |
+
 
 Frontend	Backend	Hosting
-HTML, CSS, JavaScript	Python (Flask / Streamlit)	Vercel
 
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 ![Home](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20home.jpg)
 ![Music Player](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20music.jpg)
@@ -75,41 +76,38 @@ HTML, CSS, JavaScript	Python (Flask / Streamlit)	Vercel
 ![Playlist Creation](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20playlist%20creation.jpg)
 ![Settings](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20Settings.jpg)
 
+---
 
-🌟 Creator’s Notes (Unique Section)
-
-✨ BeatVibe is not just a music player — it’s an experience.
+- ✨ BeatVibe is not just a music player — it’s an experience.
 Every glow, ripple, and mood theme is designed to make the interface react to your emotions.
-💡 Each mood theme is inspired by real emotional states:
+-💡 Each mood theme is inspired by real emotional states:
 
-Happy → warm neon
-Chill → soft gradients
-Focus → minimal dark
-Energetic → vibrant glow
+-Happy → warm neon
+-Chill → soft gradients
+-Focus → minimal dark
+-Energetic → vibrant glow
 
-🪄 The AI recommendation engine works like a mini DJ that adjusts music based on mood.
+##  The AI recommendation engine works like a mini DJ that adjusts music based on mood.
 
+---
 
+## 🔮 This project blends:
+-Emotion-based UI
+-Modern frontend design
+-AI-driven playlist logic
+-Smooth responsiveness
 
-🔮 This project blends:
+-🎧 BeatVibe = Music + Mood + Magic.
 
-Emotion-based UI
-Modern frontend design
-AI-driven playlist logic
-Smooth responsiveness
+---
 
-🎧 BeatVibe = Music + Mood + Magic.
+-📧 Email : sandhiyamrs2006@gmail.com
 
+-🐙 GitHub Profile : https://github.com/Sandhiyamrs
 
+-📂 BeatVibe Repository : https://github.com/Sandhiyamrs/BeatVibe_Modern_Music_Player
 
-📬 Contact & Additional Links
-📧 Email : sandhiyamrs2006@gmail.com
-
-🐙 GitHub Profile : https://github.com/Sandhiyamrs
-
-📂 BeatVibe Repository : https://github.com/Sandhiyamrs/BeatVibe_Modern_Music_Player
-
-🔗 Live Demo : https://v0-beat-vibe-music-player.vercel.app/
+-🔗 Live Demo : https://v0-beat-vibe-music-player.vercel.app/
 
 
 
