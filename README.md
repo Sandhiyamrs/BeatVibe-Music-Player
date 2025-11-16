@@ -1,7 +1,6 @@
-🎶 BeatVibe – Modern Music Player with Playlists & Mood Themes
+# <span style="font-size:2.5em;font-weight:bold;">🎶 BeatVibe – Modern Music Player with Playlists & Mood Themes</span>
 
-BeatVibe is a futuristic AI-powered web music player that blends rhythm, emotion, and design into one immersive experience. Listen to music, switch mood themes, create playlists, and enjoy glowing neon visuals — all inside a smooth, interactive UI.
-
+BeatVibe is a futuristic AI-powered web music player that blends rhythm, emotion, and design into one immersive experience. Listen to music, switch mood themes, create playlists, and enjoy glowing neo[...]
 
 
 🚀 Live Demo
@@ -10,13 +9,11 @@ BeatVibe is a futuristic AI-powered web music player that blends rhythm, emotion
 https://v0-beat-vibe-music-player.vercel.app/
 
 
-
 ✨ What is BeatVibe?
 
 BeatVibe is a modern browser-based music player that uses AI mood recommendations, neon visuals, and responsive UI to create a unique listening journey.
 
 You can create personal playlists, organize songs by mood, and experience music with animation-rich visuals.
-
 
 
 🌈 Features
@@ -64,7 +61,6 @@ Tablet
 Mobile
 
 
-
 🛠️ Tech Stack
 
 Frontend	Backend	Hosting
@@ -78,7 +74,6 @@ HTML, CSS, JavaScript	Python (Flask / Streamlit)	Vercel
 ![Playlist](<playlist image url>)
 ![Playlist Creation](<playlist creation image url>)
 ![Settings](<settings image url>)
-
 
 
 🌟 Creator’s Notes (Unique Section)
@@ -117,3 +112,10 @@ Smooth responsiveness
 📂 BeatVibe Repository : https://github.com/Sandhiyamrs/BeatVibe_Modern_Music_Player
 
 🔗 Live Demo : https://v0-beat-vibe-music-player.vercel.app/
+
+
+📂 BeatVibe Repository : https://github.com/Sandhiyamrs/BeatVibe_Modern_Music_Player
+
+🔗 Live Demo : https://v0-beat-vibe-music-player.vercel.app/
+
+
