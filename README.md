@@ -107,14 +107,10 @@ Smooth responsiveness
 
 🐙 GitHub Profile : https://github.com/Sandhiyamrs
 
-
-
 📂 BeatVibe Repository : https://github.com/Sandhiyamrs/BeatVibe_Modern_Music_Player
 
 🔗 Live Demo : https://v0-beat-vibe-music-player.vercel.app/
 
-
-📂 BeatVibe Repository : https://github.com/Sandhiyamrs/BeatVibe_Modern_Music_Player
 
 
 
