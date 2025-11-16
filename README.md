@@ -69,11 +69,11 @@ HTML, CSS, JavaScript	Python (Flask / Streamlit)	Vercel
 
 🖼️ Screenshots
 
-![Home](<home image url>)
-![Music Player](<music image url>)
-![Playlist](<playlist image url>)
-![Playlist Creation](<playlist creation image url>)
-![Settings](<settings image url>)
+![Home](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20home.jpg)
+![Music Player](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20music.jpg)
+![Playlist](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20Playlist.jpg)
+![Playlist Creation](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20playlist%20creation.jpg)
+![Settings](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20Settings.jpg)
 
 
 🌟 Creator’s Notes (Unique Section)
