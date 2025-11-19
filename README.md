@@ -69,10 +69,10 @@ Mobile
 ## 📸 Project Screenshots
 
 ### 🏠 Beat-vibe-Home Page
-[(image Beat-vibe-Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vive-home.jpg)
+[(image Beat-vibe-Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-home.jpg)
 
 ### ⚙ beat-vibe-music Page
-[(image beat-vibe-music.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-music.jpg.jpg)
+[(image beat-vibe-music.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-music.jpg)
 
 ### 🎨beat-vibe-playlist Page
 [(image beat-vibe-playlist.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-playlist.jpg)
