@@ -64,17 +64,24 @@ Mobile
 |-----------|----------|-----------|
 | HTML, CSS, JavaScript	| Python (Flask / Streamlit) | **Vercel** |
 
+---
 
-Frontend	Backend	Hosting
+## 📸 Project Screenshots
 
+### 🏠 Beat-vibe-Home Page
+[(image Beat-vibe-Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vive-home.jpg)
 
-## 🖼️ Screenshots
+### ⚙ beat-vibe-music Page
+[(image beat-vibe-music.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-music.jpg.jpg)
 
-![Home](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20home.jpg)
-![Music Player](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20music.jpg)
-![Playlist](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20Playlist.jpg)
-![Playlist Creation](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20playlist%20creation.jpg)
-![Settings](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe%20Settings.jpg)
+### 🎨beat-vibe-playlist Page
+[(image beat-vibe-playlist.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-playlist.jpg)
+
+### ⚙ beat-vibe-playlist-creation Page
+[(image beat-vibe-playlist-creation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-playlist-creation.jpg)
+
+### ⚙ beat-vibe-settings Page
+[(image beat-vibe-settings.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/BeatVibe-Music-Player/main/assets/beat-vibe-settings.jpg)
 
 ---
 
