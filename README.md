@@ -103,8 +103,11 @@ Every glow, ripple, and mood theme is designed to make the interface react to yo
 
 ## 🔮 This project blends:
 -Emotion-based UI
+
 -Modern frontend design
+
 -AI-driven playlist logic
+
 -Smooth responsiveness
 
 -🎧 BeatVibe = Music + Mood + Magic.
