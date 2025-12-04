@@ -90,8 +90,11 @@ Every glow, ripple, and mood theme is designed to make the interface react to yo
 -💡 Each mood theme is inspired by real emotional states:
 
 -Happy → warm neon
+
 -Chill → soft gradients
+
 -Focus → minimal dark
+
 -Energetic → vibrant glow
 
 ##  The AI recommendation engine works like a mini DJ that adjusts music based on mood.
